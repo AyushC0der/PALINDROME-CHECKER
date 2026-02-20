@@ -2,10 +2,9 @@
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("PALINDROME CHECKER");
-        System.out.println("Enter the String");
-
-        String str;
+        System.out.println("Welcome to the Palindrome Checker Management System\n");
+        System.out.println("Version : 1.0");
+        System.out.println("System initialized successfully.");
 
     }
 }
